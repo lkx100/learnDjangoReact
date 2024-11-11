@@ -1,4 +1,3 @@
-import { useState } from "react";
 import ItemList from "./component/ItemList";
 
 function App() {
